@@ -1,0 +1,37 @@
+14:10:32.286 [main] INFO  test.LoginPageTest - Driver is initialized by LoginPage
+14:10:32.677 [main] INFO  test.LoginPageTest - Landing on Login Page
+14:10:32.835 [main] INFO  test.LoginPageTest - Entered username : standard_user
+14:10:32.901 [main] INFO  test.LoginPageTest - Entered password : secret_sauce
+14:10:33.024 [main] INFO  test.LoginPageTest - Clicked on Login Button
+14:10:33.083 [main] INFO  test.LoginPageTest - Successfully Login- username:  standard_user and password: secret_sauce
+14:10:33.264 [main] INFO  test.LoginPageTest - Landing on Login Page
+14:10:33.349 [main] INFO  test.LoginPageTest - Entered username : standard_user
+14:10:33.416 [main] INFO  test.LoginPageTest - Entered password : aaa111
+14:10:33.455 [main] INFO  test.LoginPageTest - Clicked on Login Button
+14:10:33.460 [main] INFO  test.LoginPageTest - Login Failed- username:  standard_user and password: aaa111
+14:10:33.517 [main] INFO  test.LoginPageTest - Landing on Login Page
+14:10:33.586 [main] INFO  test.LoginPageTest - Entered username : standard
+14:10:33.638 [main] INFO  test.LoginPageTest - Entered password : secret_sauce
+14:10:33.697 [main] INFO  test.LoginPageTest - Clicked on Login Button
+14:10:33.702 [main] INFO  test.LoginPageTest - Login Failed- username:  standard and password: secret_sauce
+14:10:33.744 [main] INFO  test.LoginPageTest - Landing on Login Page
+14:10:33.821 [main] INFO  test.LoginPageTest - Entered username : standard111
+14:10:33.871 [main] INFO  test.LoginPageTest - Entered password : secret222
+14:10:33.909 [main] INFO  test.LoginPageTest - Clicked on Login Button
+14:10:33.935 [main] INFO  test.LoginPageTest - Login Failed- username:  standard111 and password: secret222
+14:10:35.130 [main] INFO  test.ProductPageTest - Driver is initialized by ProductPage
+14:10:35.527 [main] INFO  test.ProductPageTest - Landing on Product Page
+14:10:35.675 [main] INFO  test.ProductPageTest - Entering Username
+14:10:35.748 [main] INFO  test.ProductPageTest - Entering Password
+14:10:35.848 [main] INFO  test.ProductPageTest - Click on Login Button- Landing on Product Page
+14:10:35.947 [main] INFO  test.ProductPageTest - Added SauceLab BackPack in cart
+14:10:36.111 [main] INFO  test.ProductPageTest - Added Sauce Lab Fleece Jacket in cart
+14:10:36.187 [main] INFO  test.ProductPageTest - Clicked  on CartLink
+14:10:36.230 [main] INFO  test.ProductPageTest - Clicked on Checkout button
+14:10:36.230 [main] INFO  test.ProductPageTest - Adding Details in CHECKOUT: YOUR INFORMATION page
+14:10:36.312 [main] INFO  test.ProductPageTest - Entered FirstName
+14:10:36.359 [main] INFO  test.ProductPageTest - Entered LastName
+14:10:36.413 [main] INFO  test.ProductPageTest - Entered Postal Code
+14:10:36.457 [main] INFO  test.ProductPageTest - Clicked on continue button 
+14:10:36.519 [main] INFO  test.ProductPageTest - Clicked on Finish button
+14:10:36.538 [main] INFO  test.ProductPageTest - Test Passed :- Order is successful placed

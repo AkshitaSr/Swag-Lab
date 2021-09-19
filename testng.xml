@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Validating Login Page">
+    <classes>
+      <class name="test.LoginPageTest"/>
+    </classes>
+  </test> 
+  
+  <test name="Validating E2E functionality">
+    <classes>
+      <class name="test.ProductPageTest"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->
